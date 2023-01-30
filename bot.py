@@ -2,7 +2,7 @@ import telebot
 import working_with_datebase as wd
 import log_generate as lg
 
-bot = telebot.TeleBot('5841865362:AAGe-mekNEv9gYIPrV8kxAA6eNihfpSGJrU')
+bot = telebot.TeleBot('TOKEN')
 chat_id = ''
 surname = ''
 name = ''
